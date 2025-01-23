@@ -1,1 +1,3 @@
-# leevangelista-clone
+# Primeira aula
+
+##  Aula e git
